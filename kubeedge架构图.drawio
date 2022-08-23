@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T15:00:21.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="4zwNvGM8J5gqqWFxn-Xr" version="20.2.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-23T15:01:16.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="Nw1EwkawFzVdiTCbopYM" version="20.2.6" type="github" pages="3">
   <diagram id="B4OGuNu27FxEXHrBehI4" name="逻辑架构图">
     <mxGraphModel dx="1038" dy="556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,10 +91,10 @@
           <mxGeometry x="20" y="80" width="730" height="330" as="geometry" />
         </mxCell>
         <mxCell id="4nd-Bq4-H4wWHgvIDGj2-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="20" y="460" width="520" height="450" as="geometry" />
+          <mxGeometry x="20" y="470" width="520" height="440" as="geometry" />
         </mxCell>
         <mxCell id="4nd-Bq4-H4wWHgvIDGj2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="570" y="460" width="180" height="110" as="geometry" />
+          <mxGeometry x="570" y="470" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FCv_Kt2NYtTM7GeRsBAX-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="40" y="510" width="480" height="380" as="geometry" />
@@ -216,13 +216,13 @@
           <mxGeometry x="235" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4nd-Bq4-H4wWHgvIDGj2-1" value="EdgeCore" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="600" y="495" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4nd-Bq4-H4wWHgvIDGj2-3" value="边缘node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="690" y="460" width="60" height="30" as="geometry" />
+          <mxGeometry x="580" y="470" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4nd-Bq4-H4wWHgvIDGj2-5" value="边缘node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="460" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="470" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FCv_Kt2NYtTM7GeRsBAX-1" value="CloudHub" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="375" y="300" width="270" height="60" as="geometry" />
