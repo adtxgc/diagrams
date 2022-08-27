@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T09:36:27.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="EbNH9O_HlrQDDzJdEKMg" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-27T09:37:16.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="G3S1OzwNa9CaAyMx196f" version="20.2.7" type="github" pages="2">
   <diagram id="B4OGuNu27FxEXHrBehI4" name="逻辑架构图">
     <mxGraphModel dx="1038" dy="556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
         <mxCell id="bikFxTGzlmN9rL8Vg3o2-5" value="CRI(docker,containerd,cri-o,vitlet)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="50" y="820" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bikFxTGzlmN9rL8Vg3o2-7" value="MQTT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="bikFxTGzlmN9rL8Vg3o2-7" value="MQTT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="350" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bikFxTGzlmN9rL8Vg3o2-12" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#1A1A1A;dashed=1;" parent="1" edge="1">
