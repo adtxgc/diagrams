@@ -1,23 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T11:31:39.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="UaENY-4zXlLRR2BFs7SJ" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-01T13:08:05.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="3SaT6mXFsZPqpM0gjEO8" version="20.2.7" type="github" pages="3">
   <diagram id="c_qBDZXppw1qah-Odxho" name="算力智能调度">
-    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bhlNeT-pdVcCC8ToB-vW-2" value="能力自动评测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="pArJfQpIkxOvBsL0gTi2-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="92" y="233" width="361" height="368" as="geometry" />
         </mxCell>
-        <mxCell id="bhlNeT-pdVcCC8ToB-vW-3" value="集群算力感知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="pArJfQpIkxOvBsL0gTi2-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="bhlNeT-pdVcCC8ToB-vW-2" target="pArJfQpIkxOvBsL0gTi2-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bhlNeT-pdVcCC8ToB-vW-4" value="能力部署决策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="270" height="60" as="geometry" />
+        <mxCell id="bhlNeT-pdVcCC8ToB-vW-2" value="能力部署评测组件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bhlNeT-pdVcCC8ToB-vW-5" value="构建能力画像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="110" height="60" as="geometry" />
+        <mxCell id="pArJfQpIkxOvBsL0gTi2-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="bhlNeT-pdVcCC8ToB-vW-3" target="pArJfQpIkxOvBsL0gTi2-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bhlNeT-pdVcCC8ToB-vW-6" value="能力部署优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="bhlNeT-pdVcCC8ToB-vW-3" value="集群算力感知组件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pArJfQpIkxOvBsL0gTi2-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="bhlNeT-pdVcCC8ToB-vW-5" target="bhlNeT-pdVcCC8ToB-vW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhlNeT-pdVcCC8ToB-vW-5" value="能力画像预测组件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="315" y="520" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pArJfQpIkxOvBsL0gTi2-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="bhlNeT-pdVcCC8ToB-vW-6" target="pArJfQpIkxOvBsL0gTi2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhlNeT-pdVcCC8ToB-vW-6" value="能力部署优化组件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pArJfQpIkxOvBsL0gTi2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="pArJfQpIkxOvBsL0gTi2-1" target="bhlNeT-pdVcCC8ToB-vW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pArJfQpIkxOvBsL0gTi2-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="pArJfQpIkxOvBsL0gTi2-1" target="bhlNeT-pdVcCC8ToB-vW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pArJfQpIkxOvBsL0gTi2-1" value="k8s集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="378" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pArJfQpIkxOvBsL0gTi2-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="pArJfQpIkxOvBsL0gTi2-2" target="pArJfQpIkxOvBsL0gTi2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pArJfQpIkxOvBsL0gTi2-2" value="部署决策组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
