@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T06:35:55.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="50uUFdVcTy2u5fvY1Hmz" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-23T06:40:05.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="WARacrkJ81c1t_3k9caB" version="20.3.3" type="github">
   <diagram id="RpabkOD9WUKIw0q1IWUl" name="第 1 页">
-    <mxGraphModel dx="1865" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="1823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NTuJcfXdcniyG286ICZA-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NTuJcfXdcniyG286ICZA-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="-40" width="850" height="680" as="geometry" />
         </mxCell>
         <mxCell id="aXrzwZikzcOrv-6k9uI3-1" value="ceph集群" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -126,6 +126,18 @@
         </mxCell>
         <mxCell id="NTuJcfXdcniyG286ICZA-22" value="贵州边缘业务架构图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-70" y="-30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NTuJcfXdcniyG286ICZA-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NTuJcfXdcniyG286ICZA-23" target="NTuJcfXdcniyG286ICZA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTuJcfXdcniyG286ICZA-23" value="nginx代理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTuJcfXdcniyG286ICZA-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NTuJcfXdcniyG286ICZA-25" target="NTuJcfXdcniyG286ICZA-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NTuJcfXdcniyG286ICZA-25" value="能力接口调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
