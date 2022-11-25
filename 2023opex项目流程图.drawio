@@ -1,230 +1,245 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T03:45:48.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" version="20.6.0" etag="g3y3TXMfYt8VTUK9TDqZ" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T10:28:01.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="FQg66SeTiviHcrArp9gd" version="20.6.0" type="github">
   <diagram id="pmFFMw0CXSncJ6qstrio" name="第 1 页">
     <mxGraphModel dx="1038" dy="556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-1" target="fL5Yh4GL1NtFQYnabmQl-2">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-1" target="fL5Yh4GL1NtFQYnabmQl-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-1" value="创建语音听写能力api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-1" value="创建语音听写能力api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-2" target="fL5Yh4GL1NtFQYnabmQl-3">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-2" target="fL5Yh4GL1NtFQYnabmQl-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-2" value="配置ws协议的语音听写api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-2" value="配置ws协议的语音听写api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-3" target="fL5Yh4GL1NtFQYnabmQl-4">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-3" target="fL5Yh4GL1NtFQYnabmQl-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-3" value="测试ws协议的语音听写api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-3" value="测试ws协议的语音听写api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-4" value="改造语音听写能力演示页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-4" value="改造语音听写能力演示页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-9" target="fL5Yh4GL1NtFQYnabmQl-11">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-9" target="fL5Yh4GL1NtFQYnabmQl-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-9" value="创建实时语音转写能力api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-9" value="创建实时语音转写能力api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="207" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-11" target="fL5Yh4GL1NtFQYnabmQl-13">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-11" target="fL5Yh4GL1NtFQYnabmQl-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-11" value="配置ws协议的实时语音转写api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-11" value="配置ws协议的实时语音转写api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="207" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-13" target="fL5Yh4GL1NtFQYnabmQl-14">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-13" target="fL5Yh4GL1NtFQYnabmQl-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-13" value="测试ws协议的实时语音转写api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-13" value="测试ws协议的实时语音转写api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="207" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-14" value="改造实时语音转写能力演示页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-14" value="改造实时语音转写能力演示页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="207" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-16" target="fL5Yh4GL1NtFQYnabmQl-18">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-16" target="fL5Yh4GL1NtFQYnabmQl-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-16" value="创建通用图文识别能力api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-16" value="创建通用图文识别能力api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-18" target="fL5Yh4GL1NtFQYnabmQl-20">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-18" target="fL5Yh4GL1NtFQYnabmQl-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-18" value="配置http协议的通用图文识别api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-18" value="配置http协议的通用图文识别api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-20" target="fL5Yh4GL1NtFQYnabmQl-21">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-20" target="fL5Yh4GL1NtFQYnabmQl-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-20" value="测试http协议的通用图文识别api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-20" value="测试http协议的通用图文识别api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-21" value="改造通用图文识别能力演示页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-21" value="改造通用图文识别能力演示页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-23" target="fL5Yh4GL1NtFQYnabmQl-25">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-23" target="fL5Yh4GL1NtFQYnabmQl-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-23" value="创建语音合成能力api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-23" value="创建语音合成能力api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="368" y="58" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-25" target="fL5Yh4GL1NtFQYnabmQl-27">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-25" target="fL5Yh4GL1NtFQYnabmQl-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-25" value="配置ws协议的语音合成api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-25" value="配置ws协议的语音合成api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="368" y="158" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-27" target="fL5Yh4GL1NtFQYnabmQl-28">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-27" target="fL5Yh4GL1NtFQYnabmQl-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-27" value="测试ws协议的语音合成api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-27" value="测试ws协议的语音合成api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="368" y="258" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-28" value="改造语音合成能力演示页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-28" value="改造语音合成能力演示页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="368" y="358" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-30" target="fL5Yh4GL1NtFQYnabmQl-32">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-30" target="fL5Yh4GL1NtFQYnabmQl-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-30" value="创建机器翻译能力api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-30" value="创建机器翻译能力api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="676" y="58" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-32" target="fL5Yh4GL1NtFQYnabmQl-34">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-32" target="fL5Yh4GL1NtFQYnabmQl-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-32" value="配置http协议的机器翻译api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-32" value="配置http协议的机器翻译api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="676" y="158" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-34" target="fL5Yh4GL1NtFQYnabmQl-35">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-34" target="fL5Yh4GL1NtFQYnabmQl-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-34" value="测试http协议的机器翻译api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-34" value="测试http协议的机器翻译api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="676" y="258" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-35" value="改造机器翻译能力演示页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-35" value="改造机器翻译能力演示页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="676" y="358" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-37" target="fL5Yh4GL1NtFQYnabmQl-39">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-37" target="fL5Yh4GL1NtFQYnabmQl-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-37" value="创建非实时语音转写能力api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-37" value="创建非实时语音转写能力api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="54" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-39" target="fL5Yh4GL1NtFQYnabmQl-41">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-39" target="fL5Yh4GL1NtFQYnabmQl-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-39" value="配置http协议的非实时语音转写api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-39" value="配置http协议的非实时语音转写api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="154" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-41" target="fL5Yh4GL1NtFQYnabmQl-42">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-41" target="fL5Yh4GL1NtFQYnabmQl-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-41" value="测试http协议的非实时语音转写api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-41" value="测试http协议的非实时语音转写api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="254" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-42" value="改造非实时语音转写能力演示页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-42" value="改造非实时语音转写能力演示页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-43" target="fL5Yh4GL1NtFQYnabmQl-44">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-43" target="fL5Yh4GL1NtFQYnabmQl-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-43" value="新增集成jupyterlab的pytorch框架镜像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-43" value="新增集成jupyterlab的pytorch框架镜像" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="485" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-44" target="fL5Yh4GL1NtFQYnabmQl-45">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-44" target="fL5Yh4GL1NtFQYnabmQl-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-44" value="新增集成jupyterlab的tensorflow框架镜像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-44" value="新增集成jupyterlab的tensorflow框架镜像" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-45" target="fL5Yh4GL1NtFQYnabmQl-48">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-45" target="fL5Yh4GL1NtFQYnabmQl-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-45" value="新增集成jupyterlab的paddlepaddle框架镜像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-45" value="新增集成jupyterlab的paddlepaddle框架镜像" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="672" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-48" value="预置到系统镜像列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-48" value="预置到系统镜像列表" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="222" y="672" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-50" target="fL5Yh4GL1NtFQYnabmQl-51">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-50" target="fL5Yh4GL1NtFQYnabmQl-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-50" value="集群node升级算力卡驱动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-50" value="集群node升级算力卡驱动" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="431" y="485" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-51" target="fL5Yh4GL1NtFQYnabmQl-54">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-51" target="fL5Yh4GL1NtFQYnabmQl-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-51" value="新增适配新版算力卡驱动的pytorch镜像" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-51" value="新增适配新版算力卡驱动的pytorch镜像" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="431" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-54" value="新增适配新版算力卡驱动的tensorflow镜像" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-54" value="新增适配新版算力卡驱动的tensorflow镜像" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="431" y="687" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-56" target="fL5Yh4GL1NtFQYnabmQl-57">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-56" target="fL5Yh4GL1NtFQYnabmQl-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-56" value="新增数据准备类型分布式机器学习组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-56" value="新增数据准备类型分布式机器学习组件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="485" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-57" target="fL5Yh4GL1NtFQYnabmQl-58">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-57" target="fL5Yh4GL1NtFQYnabmQl-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-57" value="新增统计分析类型分布式机器学习组件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-57" value="新增统计分析类型分布式机器学习组件" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="584" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-58" target="fL5Yh4GL1NtFQYnabmQl-60">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-58" target="fL5Yh4GL1NtFQYnabmQl-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-58" value="新增特征转换类型分布式机器学习组件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-58" value="新增特征转换类型分布式机器学习组件" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="683" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-60" target="fL5Yh4GL1NtFQYnabmQl-62">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-60" target="fL5Yh4GL1NtFQYnabmQl-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-60" value="新增分类算法分布式机器学习组件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-60" value="新增分类算法分布式机器学习组件" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1053" y="683" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fL5Yh4GL1NtFQYnabmQl-62" target="fL5Yh4GL1NtFQYnabmQl-64">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fL5Yh4GL1NtFQYnabmQl-62" target="fL5Yh4GL1NtFQYnabmQl-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-62" value="新增聚类算法分布式机器学习组件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-62" value="新增聚类算法分布式机器学习组件" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1053" y="587" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-64" value="新增回归算法分布式机器学习组件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-64" value="新增回归算法分布式机器学习组件" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1053" y="485" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-67" value="预上线能力压测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-67" value="预上线能力压测" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="58" y="779" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-68" value="基于压测结果部署能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-68" value="基于压测结果部署能力" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="58" y="875" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-69" value="构建能力画像模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-69" value="构建能力画像模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="58" y="973" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-70" value="构建能力预测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-70" value="构建能力预测模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="1086" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-71" value="基于能力画像模型预测能力实时画像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-71" value="基于能力画像模型预测能力实时画像" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="58" y="1086" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-72" value="基于能力预测模型预测能力资源需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-72" value="基于能力预测模型预测能力资源需求" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="975" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-73" value="基于能力预测值对能力进行自动扩缩容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-73" value="基于能力预测值对能力进行自动扩缩容" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="875" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-74" value="构建能力优化模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-74" value="构建能力优化模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="226" y="779" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fL5Yh4GL1NtFQYnabmQl-75" value="基于能力优化模型给出能力优化部署建议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fL5Yh4GL1NtFQYnabmQl-75" value="基于能力优化模型给出能力优化部署建议" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="394" y="776" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6oHkwWjcjdLw82aPovhM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6oHkwWjcjdLw82aPovhM-1" target="6oHkwWjcjdLw82aPovhM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oHkwWjcjdLw82aPovhM-1" value="纳管集群物理资源，应用使用资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="916" y="824" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6oHkwWjcjdLw82aPovhM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6oHkwWjcjdLw82aPovhM-2" target="6oHkwWjcjdLw82aPovhM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oHkwWjcjdLw82aPovhM-2" value="纳管新的中间件资源" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="916" y="929" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6oHkwWjcjdLw82aPovhM-4" value="校验上报数据并统计展示" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="916" y="1033" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
