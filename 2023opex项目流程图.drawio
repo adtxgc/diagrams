@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T12:27:37.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="I8uRkSQlRVpKBYh-ch3C" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T06:44:04.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="8lLYMaufGeIVKFXptPkO" version="20.6.0" type="github">
   <diagram id="pmFFMw0CXSncJ6qstrio" name="第 1 页">
     <mxGraphModel dx="1038" dy="556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,40 +226,40 @@
         <mxCell id="fL5Yh4GL1NtFQYnabmQl-75" value="基于能力优化模型给出能力优化部署建议" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="394" y="776" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6oHkwWjcjdLw82aPovhM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6oHkwWjcjdLw82aPovhM-1" target="6oHkwWjcjdLw82aPovhM-2">
+        <mxCell id="6oHkwWjcjdLw82aPovhM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6oHkwWjcjdLw82aPovhM-1" target="6oHkwWjcjdLw82aPovhM-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6oHkwWjcjdLw82aPovhM-1" value="纳管集群物理资源，应用使用资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6oHkwWjcjdLw82aPovhM-1" value="纳管集群物理资源，应用使用资源" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="916" y="824" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6oHkwWjcjdLw82aPovhM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6oHkwWjcjdLw82aPovhM-2" target="6oHkwWjcjdLw82aPovhM-4">
+        <mxCell id="6oHkwWjcjdLw82aPovhM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6oHkwWjcjdLw82aPovhM-2" target="6oHkwWjcjdLw82aPovhM-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6oHkwWjcjdLw82aPovhM-2" value="纳管新的中间件资源" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="6oHkwWjcjdLw82aPovhM-2" value="纳管新的中间件资源" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="916" y="929" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6oHkwWjcjdLw82aPovhM-4" value="校验上报数据并统计展示" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="6oHkwWjcjdLw82aPovhM-4" value="校验上报数据并统计展示" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="916" y="1033" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6oHkwWjcjdLw82aPovhM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6oHkwWjcjdLw82aPovhM-6" target="6oHkwWjcjdLw82aPovhM-7">
+        <mxCell id="6oHkwWjcjdLw82aPovhM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6oHkwWjcjdLw82aPovhM-6" target="6oHkwWjcjdLw82aPovhM-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6oHkwWjcjdLw82aPovhM-6" value="定义算力计量标准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6oHkwWjcjdLw82aPovhM-6" value="定义算力计量标准" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="407" y="869" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6oHkwWjcjdLw82aPovhM-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6oHkwWjcjdLw82aPovhM-7" target="6oHkwWjcjdLw82aPovhM-9">
+        <mxCell id="6oHkwWjcjdLw82aPovhM-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6oHkwWjcjdLw82aPovhM-7" target="6oHkwWjcjdLw82aPovhM-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6oHkwWjcjdLw82aPovhM-7" value="采集训练推理过程算力使用" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="6oHkwWjcjdLw82aPovhM-7" value="采集训练推理过程算力使用" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="407" y="973" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6oHkwWjcjdLw82aPovhM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6oHkwWjcjdLw82aPovhM-9" target="6oHkwWjcjdLw82aPovhM-11">
+        <mxCell id="6oHkwWjcjdLw82aPovhM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6oHkwWjcjdLw82aPovhM-9" target="6oHkwWjcjdLw82aPovhM-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6oHkwWjcjdLw82aPovhM-9" value="统计租户实时算力" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="6oHkwWjcjdLw82aPovhM-9" value="统计租户实时算力" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="407" y="1077" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6oHkwWjcjdLw82aPovhM-11" value="统计租户算力使用趋势" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="6oHkwWjcjdLw82aPovhM-11" value="统计租户算力使用趋势" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="584" y="1077" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
